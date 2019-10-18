@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29411.108
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultipliesOfThreeAndFive", "Eular Problem 1 - B\MultipliesOfThreeAndFive.csproj", "{E7A553B1-416B-460E-AF7F-BF3D4A68071A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eular Problem 2", "Eular Problem 2\Eular Problem 2.csproj", "{5211811B-CDB0-4E89-ADD2-6AF485A0BD72}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenFibonacciNumbers", "Eular Problem 2\EvenFibonacciNumbers.csproj", "{5211811B-CDB0-4E89-ADD2-6AF485A0BD72}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
