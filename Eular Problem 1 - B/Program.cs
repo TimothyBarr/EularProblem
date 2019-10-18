@@ -37,7 +37,7 @@ namespace Eular_Problem_1___B
                     Console.WriteLine(x.ToString());
             }
 
-            Console.WriteLine("MultipliesOfThreeAndFive Problem 1");
+            Console.WriteLine("Multiplies Of Three And Five Problem 1");
         }
     }
 }
