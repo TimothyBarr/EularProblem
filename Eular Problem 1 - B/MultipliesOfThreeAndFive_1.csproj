@@ -6,4 +6,9 @@
     <RootNamespace>Eular_Problem_1___B</RootNamespace>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>C:\Users\Timot\source\repos\Eular Problem 1 - B\Eular Problem 1 - B\MultipliesOfThreeAndFive_1.xml</DocumentationFile>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+
 </Project>
