@@ -2,9 +2,22 @@
 
 namespace Eular_Problem_1___B
 {
+
+    /// <summary>
+    /// TEB:
+    /// TODO:  Add a description of the class
+    /// 
+    /// This is the Program class.  It is a simple class that outputs to the console.
+    /// The program  produces a list of multiplies of 3 and 5 between 1 and below 1000.
+    /// 
+    /// TODO: Enhance the description of the class.
+    /// /// </summary>
     class Program
     {
-
+        /// <summary>
+        /// TEB: Add a description of the function.
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
 
@@ -18,6 +31,7 @@ namespace Eular_Problem_1___B
                 else if (multipleOfFive(x))
                     Console.WriteLine(x.ToString());
             }
+
             Console.WriteLine("Hello World!");
         }
     }
