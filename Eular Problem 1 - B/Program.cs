@@ -10,6 +10,11 @@ namespace Eular_Problem_1___B
     /// This is the Program class.  It is a simple class that outputs to the console.
     /// The program  produces a list of multiplies of 3 and 5 between 1 and below 1000.
     /// 
+    /// If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. 
+    /// The sum of these multiples is 23.
+    /// 
+    /// Find the sum of all the multiples of 3 or 5 below 1000. 
+    /// 
     /// TODO: Enhance the description of the class.
     /// /// </summary>
     class Program
@@ -32,7 +37,7 @@ namespace Eular_Problem_1___B
                     Console.WriteLine(x.ToString());
             }
 
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("MultipliesOfThreeAndFive Problem 1");
         }
     }
 }
